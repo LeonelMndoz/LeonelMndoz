@@ -11,8 +11,8 @@
 <h3><b>CONTACTAME 📨</b></h3>
 
    [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://twitter.com/leoneel_mp)
-   [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JosueAVRojas)
-   [![image](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://twitter.com/JosueAVRojas)
+   [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/leoneel_mp)
+   [![image](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://twitter.com/leoneel_mp)
     
 </div>
 
