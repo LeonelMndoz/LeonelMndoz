@@ -4,7 +4,7 @@
     <img src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif">   
            
 <h3><b>SOBRE MÍ 🙋‍♂️</b></h3>
-<p> <b>Hola!</b> me llamo <b>Arturo Leonel Mendoza Perez</b> y tengo 21 años de edad, actualmente soy <b>estudiante</b> de la Universidad Tecnologica de Puebla en el area de <b>Desarrollo en Software</b>, me apaciona aprender nuevas cosas que por ahora sigo aprendiendo constantemente nuevos renguajes y metodologias. </p>
+<p> <b>Hola!</b> me llamo <b>Arturo Leonel Mendoza Perez</b> y tengo 21 años de edad, actualmente soy <b>estudiante</b> de la Universidad Tecnologica de Puebla en el area de <b>Desarrollo en Software</b>, me apasiona aprender nuevas cosas, por ahora sigo conociendo y estudiando constantemente nuevos lenguajes y metodologias. 😁</p>
 </div>
 
 
