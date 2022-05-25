@@ -12,14 +12,20 @@
 <div align="center">
 <h3><b>CONTACTAME 📨</b></h3>
 
-   [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/leonel_mndozzz/)
-   [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/leoneel_mp)
-   [![image](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/LeonelMp)
+   <a href="https://twitter.com/leoneel_mp" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+    <a href="https://twitter.com/leoneel_mp" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+    <a href="https://twitter.com/leoneel_mp" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"></a>
     </br>
-   [![image](https://img.shields.io/badge/Curriculum_Proximamente-FFCC22?style=for-the-badge&logo=DocuSign&logoColor=black)](https://github.com/LeonelMndoz)
+    <a href="https://github.com/LeonelMndoz"><img src="https://img.shields.io/badge/Curriculum_Proximamente-FFCC22?style=for-the-badge&logo=DocuSign&logoColor=black"></a>
+  
     
 </div>
 
+   <div align="center">
+    <h3><b>SOFTWARE ⌨️<b></h3>
+         <img src="https://img.shields.io/badge/Java-FF160B?style=for-the-badge&logo=Java&logoColor=white">   
+        
+   </div>
 
 
 
