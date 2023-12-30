@@ -11,14 +11,7 @@
 
 <div align="center">
 <h3><b>CONTACTAME 📨</b></h3>
-
-   <a href="https://twitter.com/leoneel_mp"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href="https://instagram.com/leonel_mndozzz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-    <a href="https://t.me/LeonelMp"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"></a>
-    </br>
-    <a href="https://github.com/LeonelMndoz"><img src="https://img.shields.io/badge/Curriculum_Proximamente-FFCC22?style=for-the-badge&logo=DocuSign&logoColor=black"></a>
-  
-    
+   <a href="https://twitter.com/el_leonel0"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>  
 </div>
 
    <div align="center">
